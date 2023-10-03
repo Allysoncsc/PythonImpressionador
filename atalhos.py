@@ -34,3 +34,8 @@ vendas = [1200, 300, 800, 1500, 1900, 2750, 400, 20, 23, 70, 90, 80, 1100, 999, 
 aux = heapq.nlargest(5,vendas)
 menores = heapq.nsmallest(3,vendas)
 print(aux)
+
+
+
+
+
