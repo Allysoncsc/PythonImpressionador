@@ -1,0 +1,22 @@
+
+
+
+
+
+print('Adivinhe a palavra: ')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
